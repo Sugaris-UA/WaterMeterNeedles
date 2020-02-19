@@ -4,4 +4,6 @@
 #!.vscode/tasks.json
 #!.vscode/launch.json
 #!.vscode/extensions.json
+!.vscode/arduino.json
+!.vscode/c_cpp_properties.json
 *.code-workspace
